@@ -1,7 +1,7 @@
 -- import: fastn
 
--- fastn.package: fifthtry.github.io/ds-set1-typography
-download-base-url: https://raw.githubusercontent.com/fifthtry/ds-set1-typography/main
+-- fastn.package: <user_name>.github.io/<repo_name>
+download-base-url: https://raw.githubusercontent.com/<user_name>/<repo_name>/main
 
 -- fastn.dependency: fifthtry.github.io/doc-site as ds
 
