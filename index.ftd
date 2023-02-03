@@ -434,7 +434,7 @@ mobile: $link-mobile
 
 
 
--- ftd.type-data inter-type:
+-- ftd.type-data types:
 heading-hero: $heading-hero
 heading-large: $heading-large
 heading-medium: $heading-medium
