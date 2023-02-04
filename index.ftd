@@ -454,7 +454,7 @@ button-small: $button-small
 link: $link
 
 -- display-type:
-types: $inter-type
+types: $types
 
 
 
